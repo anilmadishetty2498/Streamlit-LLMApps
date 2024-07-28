@@ -1,0 +1,20 @@
+Experience with data science and machine learning libraries (e.g., NumPy, pandas, TensorFlow).
+Familiarity with containerization and orchestration tools (e.g., Docker, Kubernetes).
+Knowledge of databases (e.g., MySQL, PostgreSQL, MongoDB).
+
+Bachelor’s degree in Computer Science, Electrical Engineering, or a related field.
+Proven experience as an Embedded Software Engineer (3+ years).
+Strong programming skills in C/C++.
+Experience with embedded systems development and debugging tools.
+Familiarity with real-time operating systems (RTOS) and embedded Linux.
+Understanding of hardware interfaces and protocols (e.g., UART, SPI, I2C).
+Experience with version control systems (e.g., Git).
+Excellent problem-solving skills and attention to detail.
+
+Master’s degree in a related field. software engineer
+Experience with ARM Cortex or other microcontroller architectures.
+Knowledge of wireless communication protocols (e.g., Bluetooth, Wi-Fi).
+Familiarity with Agile development methodologies.
+Experience with simulation tools and methodologies for embedded systems.
+Understanding of low-power design and optimization techniques.
+
